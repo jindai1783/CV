@@ -14,6 +14,10 @@ The infamous game 'Rock Paper Scissors Lizard Spock' for you to spare your time.
 
 ## Skills
 
+![alt text][3-tier]
+
+[3-tier]: 3-tier.jpg "3-tier"
+
 * Agile software development 
 * Object oriented design (OOD)
 * Test driven development (TDD)
