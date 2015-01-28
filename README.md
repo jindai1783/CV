@@ -16,7 +16,10 @@ The infamous game 'Rock Paper Scissors Lizard Spock' for you to spare your time.
 
 ![alt text][3-tier]
 
-[3-tier]: 3-tier.jpg "3-tier"
+[3-tier]: 3-tier.jpg "Three Tier Web Architecture"
+*Image provided by [Makers Academy]*
+
+[Makers Academy]: https://github.com/makersacademy/course/blob/master/intro.md
 
 * Agile software development 
 * Object oriented design (OOD)
