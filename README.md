@@ -47,12 +47,12 @@ The infamous game 'Rock Paper Scissors Lizard Spock' for you to spare your time.
 ## Education
 
 ### University of Cambridge
-Bachelor's Degree, Information and Computer Engineering
+**Bachelor's Degree, Information and Computer Engineering**
 
 *2011 - 2014*
 
 ### Dulwich College
-A-levels
+**A-levels**
 
 *2010 - 2011*
 
@@ -61,50 +61,50 @@ A-levels
 
 *Aug - Oct 2014*
 
-• Developed Java and JMeter simulation for real-time and non real-time consumer behaviour
-• Integrated the simulator with Featurespace’s ongoing development of the ARIC-ZAPP system
+* Developed Java and JMeter simulation for real-time and non real-time consumer behaviour
+* Integrated the simulator with Featurespace’s ongoing development of the ARIC-ZAPP system
 
 **China Electronics Corporation - Winter Intern**
 
 *Jan 2014*
 
-• Developed solution for evaluating cloud computing security
-• Participated in the drafting of cloud computing security standard
+* Developed solution for evaluating cloud computing security
+* Participated in the drafting of cloud computing security standard
 
 **Cambridge Centre for Smart Infrastructure and Construction - Undergraduate Researcher**
 
 *Aug - Oct 2013*
 
-• Developed wireless sensor network system with Atmel Xmega micro-controller
-• Applied WSN in agriculture and underground construction
+* Developed wireless sensor network system with Atmel Xmega micro-controller
+* Applied WSN in agriculture and underground construction
 
 **UBS SDIC Fund Management Company Ltd, China - Summer Intern**
 
 *July 2013*
 
-• Worked through a two-week case study alongside project director
-• Developed client questionnaire with project team
+* Worked through a two-week case study alongside project director
+* Developed client questionnaire with project team
 
 **Cambridge Mechatronics Ltd, Cambridge - Winter Intern**
 
 *Jan - Feb 2012*
 
-• Developed acoustic simulation with finite element analysis
-• Documented and presented project result
+* Developed acoustic simulation with finite element analysis
+* Documented and presented project result
 
 **Inmarsat Plc, UK - Summer Intern**
 
 *July 2010*
 
-• Tested nano-satellite submodules and integrated performance
-• Documented and presented test results with project team
+* Tested nano-satellite submodules and integrated performance
+* Documented and presented test results with project team
 
 **Weizmann Institute Physics Tournament, Israel - Tournament**
 
 *March 2010*
 
-• Built a puzzle-protected safe box in teamwork
-• Scored top 25% among 50+ worldwide teams
+* Built a puzzle-protected safe box in teamwork
+* Scored top 25% among 50+ worldwide teams
 
 ## Interests
 
