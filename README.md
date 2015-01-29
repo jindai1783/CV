@@ -5,12 +5,14 @@ I am a Chinese web developer in London. I enjoy making things fun, so here I am,
 
 ## Code Examples
 
-[Rock Paper Scissors] | [ComeChat]
---- | ---
-The infamous game 'Rock Paper Scissors Lizard Spock' for you to spare your time. | A simple Twitter clone that will allow the users to post messages to a public stream.
+[Rock Paper Scissors] | [ComeChat] | [Takeaway] | [Pecha Kucha]
+--- | --- | --- | ---
+The infamous game 'Rock Paper Scissors Lizard Spock' for you to spare your time. | A simple Twitter clone that will allow the users to post messages to a public stream. | A takeway program to serve you dishes. | An application for randomly choosing a next person to do a Pecha Kucha presentation for the friday session at Makers Academy.
 
 [Rock Paper Scissors]: https://github.com/jindai1783/Rock-Paper-Scissors-Lizard-Spock
 [ComeChat]: https://github.com/jindai1783/ComeChat
+[Takeaway]: https://github.com/jindai1783/Takeaway
+[Pecha Kucha]: https://github.com/jindai1783/pecha-kucha-1
 
 ## Skills
 
