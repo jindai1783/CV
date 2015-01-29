@@ -7,7 +7,7 @@ I am a Chinese web developer in London. I enjoy making things fun, so here I am,
 
 [Rock Paper Scissors] | [ComeChat] | [Takeaway] | [Pecha Kucha]
 --- | --- | --- | ---
-The infamous game 'Rock Paper Scissors Lizard Spock' for you to spare your time. | A simple Twitter clone that will allow the users to post messages to a public stream. | A takeway program to serve you dishes. | An application for randomly choosing a next person to do a Pecha Kucha presentation for the friday session at Makers Academy.
+The infamous game 'Rock Paper Scissors Lizard Spock' for you to spare your time. | A simple Twitter clone that will allow the users to post messages to a public stream. | A takeway program to serve you dishes at one of your favourite restaurant. | An application for a group Pecha Kucha session for Makers Academy fun Friday.
 
 [Rock Paper Scissors]: https://github.com/jindai1783/Rock-Paper-Scissors-Lizard-Spock
 [ComeChat]: https://github.com/jindai1783/ComeChat
