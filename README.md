@@ -16,7 +16,7 @@ Experience in Ruby and JavaScript testing frameworks including RSpec, Cucumber, 
 
 #### Full Stack Understanding
 
-Have relavent experience in front-end, back-end, database and deployment with Ruby and JavaScript. Continuing to seek and learn.
+Have relevant experience in front-end, back-end, database and deployment with Ruby and JavaScript. Continuing to seek and learn.
 
 ### Code Examples
 
