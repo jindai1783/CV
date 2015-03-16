@@ -2,7 +2,7 @@
 
 ### Summary
 
-Curious, artistic, reserved. Celebrating the graduation from world top university with minimum viable grade. A great navigator in every projects and ever, approaching challenges with intuition yet structure. Entrepreneurial, exploratory and seeking for growth. Love multicultural team, love productivity, love a stage that promotes craftsmanship.
+Curious, imaginative, reserved. Celebrating the graduation from world top university with minimum viable grade. A great navigator in every projects and ever, approaching challenges with intuition yet structure. Entrepreneurial, exploratory and seeking for growth. Love multicultural team, love productivity, love a stage that promotes craftsmanship.
 
 ### Skills
 
